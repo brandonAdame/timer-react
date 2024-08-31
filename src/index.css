@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #3593BB 23.3%, #839C92 46.93%, #D9A764 73.05%);
+    font-family: 'Fira Code';
+    font-weight: 400;
+}
